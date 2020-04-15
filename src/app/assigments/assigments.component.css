@@ -1,0 +1,13 @@
+.submitted{
+  font-size: large;
+  color: darkgreen;
+}
+.unsubmitted{
+  font-size: small;
+  color: brown;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  margin: 2em;
+}
